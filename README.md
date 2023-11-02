@@ -10,7 +10,12 @@
 
 ## Main Weatherapp Screen
 
- ![Screenshot (152)](https://github.com/Mrinalsharma1/weatherdash/assets/59733255/9878f98f-6cde-412e-b719-a5927ee50d9e)
+<img width="958" alt="Screenshot 2023-11-02 221357" src="https://github.com/Mrinalsharma1/weatherdash/assets/59733255/1da0af03-471f-4fe0-8029-2fa1adc370fe">
 
 
-## All The Backend Work are in Backend Folder
+## If You Type Any Wrong URL then you will get this Screen
+
+<img width="926" alt="pagenotfound" src="https://github.com/Mrinalsharma1/weatherdash/assets/59733255/04d548d5-c00f-4bed-ba8b-3d6b1d50797c">
+
+
+## You will get all The Backend Work is in the Backend Folder

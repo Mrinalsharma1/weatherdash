@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.signupImg img {
+    height: 140px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.signupForm button {
+    background-color: #01d28e;
+}
+
+.signupForm .signupbtn {
+    text-decoration: none;
+}
+
+.signupBox .social p:hover {
+    border-radius: 50%;
+    cursor: pointer;
+    color: #01d28e;
+
+}
